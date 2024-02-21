@@ -2,6 +2,7 @@
 <h3 align="center">Someone who loves back-end and wants to be a full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarrdev&label=Profile%20views&color=0e75b6&style=flat" alt="akbarrdev" /> </p>
+<a href="https://wakatime.com/@83f11edf-bceb-4b11-b19a-2ddaa3894b8c"><img src="https://wakatime.com/badge/user/83f11edf-bceb-4b11-b19a-2ddaa3894b8c.svg" alt="Total time coded since Sep 4 2022" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbarrdev" alt="akbarrdev" /></a> </p>
 
