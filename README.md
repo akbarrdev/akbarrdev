@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Nevo Bot**
 
-- 🌱 I’m currently learning **ReactJS, ExpressJS, MongoDB, NodeJS**
+- 🌱 I’m currently learning **ReactJS, NextJS and MongoDB**
 
 - 💬 Ask me about **WhatsApp Bot**
 
