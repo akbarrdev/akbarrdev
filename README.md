@@ -5,7 +5,7 @@
 <a href="https://wakatime.com/@83f11edf-bceb-4b11-b19a-2ddaa3894b8c"><img src="https://wakatime.com/badge/user/83f11edf-bceb-4b11-b19a-2ddaa3894b8c.svg" alt="Total time coded since Sep 4 2022" /></a></p>
 
 
-- 🔭 I’m currently working on **Nevo Bot**
+- 🔭 I’m currently working on **Nevo AI**
 
 - 🌱 I’m currently learning **ReactJS, NextJS and MongoDB**
 
