@@ -1,19 +1,19 @@
 <h1 align="center">Hi! My name is M. Akbar Perdana</h1>
-<h3 align="center">Someone who loves back-end and wants to be a full-stack developer.</h3>
+<h3 align="center">Someone who loves AI and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarrdev&label=Profile%20views&color=0e75b6&style=flat" alt="akbarrdev" />
 <a href="https://wakatime.com/@83f11edf-bceb-4b11-b19a-2ddaa3894b8c"><img src="https://wakatime.com/badge/user/83f11edf-bceb-4b11-b19a-2ddaa3894b8c.svg" alt="Total time coded since Sep 4 2022" /></a></p>
 
 
-- 🔭 I’m currently working on **Nevo AI**
+- I am currently developing **Nevo**, a smart WhatsApp bot integrated with AI.
 
-- 🌱 I’m currently learning **ReactJS, NextJS and MongoDB**
+- I am currently learning **NextJS, Firebase, and Generative AI**
 
-- 💬 Ask me about **WhatsApp Bot**
+- Ask me about **WhatsApp Bot**
 
-- 📫 How to reach me **https://wa.me/6282370784874**
+- You can reach me via: **https://wa.me/6282370784874**
 
-- ⚡ Fun fact **My cat does cartwheels when given Royal Canin**
+- Fun fact: **My cat does cartwheels when given Royal Canin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
