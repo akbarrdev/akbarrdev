@@ -5,13 +5,9 @@
 <a href="https://wakatime.com/@83f11edf-bceb-4b11-b19a-2ddaa3894b8c"><img src="https://wakatime.com/badge/user/83f11edf-bceb-4b11-b19a-2ddaa3894b8c.svg" alt="Total time coded since Sep 4 2022" /></a></p>
 
 
-- I am currently developing **Nevo**, a smart WhatsApp bot integrated with AI.
-
 - I am currently learning **NextJS, Firebase, and Generative AI**
 
-- Ask me about **WhatsApp Bot**
-
-- You can reach me via: **https://wa.me/6282370784874**
+- You can reach me via discord: **akbarrdev**
 
 - Fun fact: **My cat does cartwheels when given Royal Canin**
 
